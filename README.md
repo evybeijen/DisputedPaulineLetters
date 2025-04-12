@@ -3,7 +3,7 @@
 This repository contains the core functions of the project "Authorship Verification of the Disputed Pauline Letters through Deep Learning" by Evy Beijen and Rianne de Heide, which was accepted for publication in *HIPHIL Novum*. The study presents a deep learning approach to the authorship verification of the disputed Pauline letters. Specifically, we developed a bidirectional LSTM network to classify segments of the disputed Pauline letters—each approximately 100 words long—as either authored by Paul or not.
 
 ## Overview
-This repository includes two primary files that implement the methodology described in the article:
+This repository includes two primary files that reflect the methodology described in the article:
 
 - **`preprocessing.py`**
 - **`model_construction_and_evaluation.py`**
