@@ -8,7 +8,7 @@ This repository includes two primary files that reflect the methodology describe
 - **`preprocessing.py`**
 - **`model_construction_and_evaluation.py`**
 
-These files contain functions that implement the article's approach, including preprocessing of the text data (i.e., letters in Ancient Greek), model construction, and evaluation. The functions are based on the code used to generate the results in the article but have been modified to enhance readability, reusability, and flexibility. We hope this will facilitate the extension and adaptation of our approach in future research.
+These files contain functions that implement the article's approach, including preprocessing of the text data (i.e., letters in Ancient Greek), model construction, and model evaluation. The functions are based on the code used to generate the results in the article but have been adjusted to enhance readability, reusability, and flexibility. We hope this will facilitate the extension and adaptation of our approach in future research.
 
 ## Citation
 
