@@ -12,7 +12,7 @@ These files contain functions that implement the article's approach, including p
 
 ## Citation
 
-Beijen, Evy, and Rianne de Heide. 2025. "Authorship Verification of the Disputed Pauline Letters through Deep Learning." *HIPHIL Novum* 10 (1):22-39. https://doi.org/10.7146/hn.v10i1.147482.
+Beijen, Evy, and Rianne de Heide. 2025. "Authorship Verification of the Disputed Pauline Letters through Deep Learning." *HIPHIL Novum* 10 (1): 22-39. https://doi.org/10.7146/hn.v10i1.147482.
 
 ## License
 This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.  
