@@ -1,0 +1,26 @@
+name: paul_bilstm_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - setuptools=59.6.0
+  - typing_extensions==4.5.0
+  - pip:
+      - tensorflow==2.13.0
+      - keras==2.13.1
+      - cltk==1.2.2
+      - stanza==1.6.0 
+      - scikeras==0.12.0
+      - bayesian-optimization==1.4.3
+      - ipython==8.12.0
+      - ipykernel==6.27.0
+      - tqdm
+      - jupyterlab
+      - notebook

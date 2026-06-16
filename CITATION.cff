@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Authorship Verification of the Disputed Pauline Letters through Deep Learning"
+message: "If you use this code, please cite the article."
+authors:
+  - family-names: Beijen
+    given-names: Evy
+  - family-names: de Heide
+    given-names: Rianne
+year: 2026
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Beijen
+      given-names: Evy
+    - family-names: de Heide
+      given-names: Rianne
+  title: "Authorship Verification of the Disputed Pauline Letters through Deep Learning"
+  journal: "HIPHIL Novum"
+  volume: 10
+  issue: 1
+  start: 22
+  end: 39
+  year: 2025
+  doi: "10.7146/hn.v10i1.147482"
