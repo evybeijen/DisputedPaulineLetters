@@ -13,6 +13,7 @@ When the article was published in 2025, this repository contained two Python fil
 A full version of the code can be found in the Jupyter Notebook `paul_bilstm.ipynb`. This notebook imports functions from two Python files, also available in this repository:
 -	`preprocessing.py`
 -	`model_creation_and_hyperparameter_tuning.py`
+
 These files contain core functions to implement the approach outlined in the article. They have been slightly adapted from the Python files published in 2025 to improve clarity, readability, and ease of use in the notebook. 
 
 To run the notebook, a Python environment can be set up using the specifications in `environment.yml`. This environment is intended to approximate the one in which the results reported in the article were originally produced in 2024. When rerunning the notebook in this reconstructed environment in 2026, the plaintext model reproduced the article results. For the lemmatized model, however, exact replication was not achieved, despite using the same code and the same top-level Classical Language Toolkit (CLTK) version number, `cltk==1.2.2`. As explained in the notebook, this discrepancy may be due to changes in CLTK’s underlying resources or dependencies, which may affect lemmatization even when the top-level CLTK version remains the same. Exact reproduction of the lemmatized model should thus be considered unresolved. 
